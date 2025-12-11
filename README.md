@@ -1,2 +1,2 @@
 -  Hi, I’m @Dari0o
--  I’m interested in building software to automate certain things in Python so I can run it 24/7 on my raspberry py.
+-  I’m interested in building software to automate certain things so I can run it 24/7 on my raspberry py.
